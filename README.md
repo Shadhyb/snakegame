@@ -2,6 +2,10 @@
 
 
 A simple HTML/CSS/Javascript game <br>
-<hr>
+<hr style="color:red">
 Use arrow to play this nostalgic game.<br>
-<code style="font-size:2em">ENJOY IT</code>
+<code style="font-size:3em; color:greenyellow; ">ENJOY IT</code>
+<br>
+<hr>
+
+#Responsive
